@@ -12,7 +12,9 @@ uma análise mais clara, já que a base de dados original não continha nenhuma 
 
 <h3>Notebook 2</h3>
 Aqui esta presente análises gráficas do banco de dados, utilizando histogramas, box plots e gráficos de barra por agrupamentos regionais. Após esta etapa, foi efetuada a transformação logarítima da variável dependente ou observável "price" e a vetorização das variáveis independentes ("one-hot") categóricas. Com os dados transformados, foi utilizado o método "Nested Cross Validation" que separa a base de dados entre treino e teste. O objetivo deste processo, é manter a base de teste apenas para a validação do modelo, enquanto a base de treino é utilizada para a escolha da melhor classe de modelo com cross validation e para a escolha dos melhores hyper parametros utilizando GridSearchCV. Desta maneira é possível obter uma validação mais realista do modelo final.
-Após o cross validation e GridSearchCV, foi feito testes estatísticos de hipótese de normalidade e de média e Gradient Boosting Regressor foi a classe que teve o melhor desempenho. 
+
+Após o cross validation e GridSearchCV, foi feito testes estatísticos de hipótese de normalidade e de média e Gradient Boosting Regressor foi a classe que teve o melhor desempenho.
+
 Após todas essas etapas, chegamos na validação do modelo com o dataset de teste e obteve um resultado de R^2 = 0.86 e um RMSE =400.00.
 Também foi feito um estudo gráfico dos resídiuos do modelo e um teste de normalidade, tendo um resultado negativo nesse sentido e de provável necessidade de melhora.
 
