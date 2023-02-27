@@ -17,7 +17,7 @@ O objetivo deste projeto foi colocar em prática o meu aprendizado no processo d
 Neste notebook se encontra todo o processo de tratamento dos dados. Desde da retirada de dados nulos ou inválidos, limpeza utilizando diversor recursos do Python,  Pandas e a remoção de erros de entrada utilizando box plots. Também neste notebook foi criado uma nova coluna "zones" que contém as regiões administrativas de cada bairro para facilitar ou até possibilitar
 uma análise mais clara, já que a base de dados original não continha nenhuma variável qualitativa que possibilitasse um estudo por grupos.
 
-<h3 id = 'notebook2'><a href='https://github.com/lukasoares/Real_Estate_Pricing_Model_BH/blob/main/Notebook_2%20_An%C3%A1lise_e_treinamento/Real_Estate_Price_Analysis_and_Training_BH.ipynb'>Notebook 2 - Análise exploratória, Escolha de Modelo e Validação</a></h3>
+<h3 id = 'notebook2'><a href='https://github.com/lukasoares/Real_Estate_Pricing_Model_BH/blob/main/Notebook_2%20_An%C3%A1lise_e_treinamento/Real_Estate_Price_Analysis_and_Training_BH.ipynb'>Notebook 2 - Análise Exploratória, Escolha de Modelo e Validação</a></h3>
 <p>Aqui esta presente análises gráficas do banco de dados, utilizando histogramas, box plots e gráficos de barra por agrupamentos regionais. Após esta etapa, foi efetuada a transformação logarítima da variável dependente ou observável "price" e a vetorização das variáveis independentes ("one-hot") categóricas.</p>
 <img src ="https://user-images.githubusercontent.com/110298606/221657828-b65925b4-58a4-4611-8c8d-a5609568832a.png" width = 800px/> 
 <p>Como parte do processo de avaliação de análise das variáveis foi realizado um teste de correlação Pearson</p>
