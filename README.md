@@ -4,7 +4,7 @@ Tratamento de dados, análise exploratória, seleção e contrução de um model
 <p align = center> 
     <a href = '#objetivo'>Objetivo</a> •
     <a href = '#notebook1'>Notebook 1</a> •
-    <a href = '#notebook2'>Notebook 2</a>
+    <a href = '#notebook2'>Notebook 2</a> •
     <a href = '#conclusão'>Conclusão</a>
 </p>
 
