@@ -7,7 +7,7 @@ O objetivo deste projeto foi colocar em prática o meu aprendizado no processo d
 
 
 <h3><a href='https://github.com/lukasoares/House_Price_BH/blob/main/Notebook_1%20_Tratamento_e_limpeza_dos_dados/Treatment_House_Pricing_BH.ipynb'>Notebook 1 - Tratamento e limpeza dos dados</a></h3>
-Neste notebook se encontra todo o processo de tratamento dos dados. Desde da retirada de dados nulos ou inválidos, limpeza utilizando diversor recursos do Python e Pandas. Também foi feita a remoção de erros de entrada utilizando box plots. Também neste notebook foi criado uma nova coluna "zones" que contém as regiões administrativas de cada bairro para facilitar ou até possibilitar
+Neste notebook se encontra todo o processo de tratamento dos dados. Desde da retirada de dados nulos ou inválidos, limpeza utilizando diversor recursos do Python e Pandas. E a remoção de erros de entrada utilizando box plots. Também neste notebook foi criado uma nova coluna "zones" que contém as regiões administrativas de cada bairro para facilitar ou até possibilitar
 uma análise mais clara, já que a base de dados original não continha nenhuma variável qualitativa que possibilitasse um estudo por grupos.
 
 <h3>Notebook 2 - Análise dos dados e seleção do melhor modelo de regressão</h3>
