@@ -29,5 +29,9 @@ Também foi feito um estudo gráfico dos resídiuos do modelo e um teste de norm
 
 <h3 id = 'conclusão'>Conclusão</h3>
 
+Apesar da limitação da base de dados com informações insuficientes sobre a estrutura do imóvel e uma distribuição geográfica não homogênea, com maior representatividade da Zona Centro-Sul, o resultado de 0,84 de R2 é considerado positivo, embora não ideal, devido a algumas anomalias e falhas no teste de resíduos. A inclusão de informações adicionais, como número de banheiros, quantidade de andares, materiais utilizados e idade do imóvel, juntamente com uma amostra maior de outras zonas, como Barreiro e Venda Nova, pode aprimorar significativamente o modelo.
+
+Uma alternativa para aprimorar a distribuição de preços assimétrica seria criar um modelo de regressão específico para grupos de renda ou faixas de valores de imóveis. Além disso, foi observado que a influência das regiões no modelo de previsão de preços foi insignificante, exceto pela Zona Centro-Sul, que apresentou algum peso relevante de 0,1.
+
 
 
