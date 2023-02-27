@@ -1,5 +1,5 @@
 <h1>House_Price_BH</h1>
-Tratamento, análise exploratória e modelo de preços de imóveis em Belo Horizonte utilizando uma base de dados disponibilizada no Kaggle.
+Tratamento de dados, análise exploratória, seleção e contrução de um modelo de preços de imóveis em Belo Horizonte utilizando uma base de dados disponibilizada no Kaggle.
 
 <h2>Objetivo</h2>
 
