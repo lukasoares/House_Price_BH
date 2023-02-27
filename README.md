@@ -1,9 +1,9 @@
 <h1>House_Price_BH</h1>
-Tratamento, análise e modelo de preços de imóveis em Belo Horizonte utilizando uma base de dados disponibilizada no Kaggle.
+Tratamento, análise exploratória e modelo de preços de imóveis em Belo Horizonte utilizando uma base de dados disponibilizada no Kaggle.
 
 <h2>Objetivo</h2>
 
-O objetivo deste projeto foi colocar em prática o meu aprendizado no processo de machine learning relacionado a regressão. Indo do tratamento dos dados, análise exploratória, escolha da melhor classe de modelo, seus hiper parametros, testes estatísticos, validação final e avaliação dos resultados. Para isso decide escolher uma base de dados da cidade que eu moro, Belo Horizonte, selecionando modelos de regressão como Random Florest, Gradient Booster, dentre outros, para poder prever preços de imóveis.
+O objetivo deste projeto foi colocar em prática o meu aprendizado no processo de machine learning relacionado a regressão. Indo do tratamento dos dados, análise exploratória, escolha da melhor classe de modelo, seus hiper parâmetros, testes estatísticos, validação final e avaliação dos resultados. Para isso foi decidido escolher uma base de dados da cidade que eu moro, Belo Horizonte, selecionando modelos de regressão como Random Florest, Gradient Booster, dentre outros, para poder prever preços de imóveis.
 
 
 <h3>Notebook 1 - Tratamento e limpeza dos dados</h3>
