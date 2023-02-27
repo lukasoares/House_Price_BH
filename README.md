@@ -3,7 +3,7 @@ Tratamento de dados, análise exploratória, seleção e contrução de um model
 
 <h2>Objetivo</h2>
 
-O objetivo deste projeto foi colocar em prática o meu aprendizado no processo de machine learning relacionado a regressão. Passando desde tratamento dos dados, análise exploratória, escolha da melhor classe de modelo e seus hiper parâmetros, testes estatísticos para a escolha do melhor modelo, validação final e avaliação dos resultados. Para isso foi decidido escolher uma base de dados da cidade que eu moro, Belo Horizonte, selecionando modelos de regressão como Random Florest Regressor, Gradient Booster Regressor, dentre outros.
+O objetivo deste projeto foi colocar em prática o meu aprendizado no processo de machine learning relacionado a regressão. Passando desde tratamento dos dados, análise exploratória, escolha da melhor classe de modelo e seus hiper parâmetros, testes estatísticos, validação final e avaliação dos resultados. Para isso foi decidido escolher uma base de dados da cidade que eu moro, Belo Horizonte, selecionando modelos de regressão como Random Florest Regressor, Gradient Booster Regressor, dentre outros.
 
 
 <h3><a href='https://github.com/lukasoares/House_Price_BH/blob/main/Notebook_1%20_Tratamento_e_limpeza_dos_dados/Treatment_House_Pricing_BH.ipynb'>Notebook 1 - Tratamento e limpeza dos dados</a></h3>
