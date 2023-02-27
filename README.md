@@ -5,7 +5,7 @@ Tratamento, análise e modelo de preços de imóveis em Belo Horizonte utilizand
 O objetivo deste projeto é colocar em prática todo o meu aprendizado no processo de machine learning. Indo do tratamento dos dados, análise, escolha de classe do melhor modelo, seus hiper parametros. Para isso decide escolher uma base de dados da cidade que eu moro, Belo Horizonte, selecionando modelos de regressão como Random Florest, Gradient Booster, dentre outros, para poder prever preços de imóveis.
 
 
-<h2>Notebook 1</h2>
+<h2>Notebook 1 - Tratamento e limpeza dos dados</h2>
 Neste notebook se encontra todo o processo de tratamento dos dados. Desde da retirada de dados nulos ou inválidos, limpeza e remoção com erro de entrada utilizando box plots. Também neste notebook foi criado uma nova coluna "zones" que contém as regiões administrativas de cada bairro para facilitar ou até possibilitar
 uma análise mais clara, já que a base de dados original não continha nenhuma variável qualitativa que possibilitasse um estudo por grupos.
 
