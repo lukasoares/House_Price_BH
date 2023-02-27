@@ -10,7 +10,7 @@ O objetivo deste projeto foi colocar em prática o meu aprendizado no processo d
 Neste notebook se encontra todo o processo de tratamento dos dados. Desde da retirada de dados nulos ou inválidos, limpeza utilizando diversor recursos do Python e Pandas. Também foi feita a remoção de erros de entrada utilizando box plots. Também neste notebook foi criado uma nova coluna "zones" que contém as regiões administrativas de cada bairro para facilitar ou até possibilitar
 uma análise mais clara, já que a base de dados original não continha nenhuma variável qualitativa que possibilitasse um estudo por grupos.
 
-<h3>Notebook 2 - Análise dos dados e selecão do melhor modelo de regresão</h3>
+<h3>Notebook 2 - Análise dos dados e seleção do melhor modelo de regressão</h3>
 <p>Aqui esta presente análises gráficas do banco de dados, utilizando histogramas, box plots e gráficos de barra por agrupamentos regionais. Após esta etapa, foi efetuada a transformação logarítima da variável dependente ou observável "price" e a vetorização das variáveis independentes ("one-hot") categóricas.</p>
 <img src ="https://user-images.githubusercontent.com/110298606/221657828-b65925b4-58a4-4611-8c8d-a5609568832a.png" width = 800px/> 
  
