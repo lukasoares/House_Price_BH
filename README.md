@@ -18,4 +18,4 @@ uma análise mais clara, já que a base de dados original não continha nenhuma 
 Também foi feito um estudo gráfico dos resídiuos do modelo e um teste de normalidade, tendo um resultado negativo nesse sentido e de provável necessidade de melhora.
 <img src ="https://user-images.githubusercontent.com/110298606/221666286-f9f641c9-eab9-4eb1-b48f-2dd05f29ef78.png" width = 800px/> 
 
-<img src ="https://user-images.githubusercontent.com/110298606/221666786-37103414-78e6-4229-9a6f-c932d907691d.png" width = 800px height=500px/>
+<img src ="https://user-images.githubusercontent.com/110298606/221666786-37103414-78e6-4229-9a6f-c932d907691d.png" width = 500px height=500px/>
