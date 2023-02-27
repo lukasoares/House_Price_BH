@@ -3,7 +3,7 @@ Tratamento, análise exploratória e modelo de preços de imóveis em Belo Horiz
 
 <h2>Objetivo</h2>
 
-O objetivo deste projeto foi colocar em prática o meu aprendizado no processo de machine learning relacionado a regressão. Indo do tratamento dos dados, análise exploratória, escolha da melhor classe de modelo, seus hiper parâmetros, testes estatísticos, validação final e avaliação dos resultados. Para isso foi decidido escolher uma base de dados da cidade que eu moro, Belo Horizonte, selecionando modelos de regressão como Random Florest, Gradient Booster, dentre outros, para poder prever preços de imóveis.
+O objetivo deste projeto foi colocar em prática o meu aprendizado no processo de machine learning relacionado a regressão. Passando desde tratamento dos dados, análise exploratória, escolha da melhor classe de modelo e seus hiper parâmetros, testes estatísticos para a escolha do melhor modelo, validação final e avaliação dos resultados. Para isso foi decidido escolher uma base de dados da cidade que eu moro, Belo Horizonte, selecionando modelos de regressão como Random Florest Regressor, Gradient Booster Regressor, dentre outros.
 
 
 <h3><a href='https://github.com/lukasoares/House_Price_BH/blob/main/Notebook_1%20_Tratamento_e_limpeza_dos_dados/Treatment_House_Pricing_BH.ipynb'>Notebook 1 - Tratamento e limpeza dos dados</a></h3>
@@ -18,7 +18,5 @@ uma análise mais clara, já que a base de dados original não continha nenhuma 
 Também foi feito um estudo gráfico dos resídiuos do modelo e um teste de normalidade, tendo um resultado negativo nesse sentido e de provável necessidade de melhora.
 <img src ="https://user-images.githubusercontent.com/110298606/221668460-178396d7-3977-4785-ae0d-ce5daab92a68.png" width = 800px/>
 
-
-https://github.com/lukasoares/House_Price_BH/blob/main/Notebook_1%20_Tratamento_e_limpeza_dos_dados/Treatment_House_Pricing_BH.ipynb
 
 
