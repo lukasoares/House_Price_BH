@@ -20,4 +20,4 @@ Também foi feito um estudo gráfico dos resídiuos do modelo e um teste de norm
 
 
 
-<img src ="https://user-images.githubusercontent.com/110298606/221668460-178396d7-3977-4785-ae0d-ce5daab92a68.png/>
+<img src ="https://user-images.githubusercontent.com/110298606/221668460-178396d7-3977-4785-ae0d-ce5daab92a68.png/">
