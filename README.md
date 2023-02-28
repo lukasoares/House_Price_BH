@@ -16,7 +16,7 @@ O objetivo deste projeto foi colocar em prática o meu aprendizado no processo d
 <h3 id = 'notebook1'><a href='https://github.com/lukasoares/House_Price_BH/blob/main/Notebook_1%20_Tratamento_e_limpeza_dos_dados/Treatment_House_Pricing_BH.ipynb'>Notebook 1 - Tratamento e limpeza dos dados</a></h3>
 Neste notebook se encontra todo o processo de tratamento dos dados. Desde da retirada de dados nulos ou inválidos, limpeza utilizando diversors recursos do Python,  Geopandas e Pandas e a remoção de erros de entrada utilizando box plots. Também neste notebook foi criado uma nova coluna "zones" que contém as regiões administrativas de cada bairro para facilitar ou até possibilitar
 uma análise mais clara, já que a base de dados original não continha nenhuma variável qualitativa que possibilitasse um estudo por grupos.
-<img src ="https://user-images.githubusercontent.com/110298606/221848783-f6bc007b-80d8-4ad4-8b17-94c434dae1aa.png"/>
+<img src ="https://user-images.githubusercontent.com/110298606/221849741-6ea886d5-e103-4116-a02c-31ae41f08c7d.png"/>
 
 <h3 id = 'notebook2'><a href='https://github.com/lukasoares/Real_Estate_Pricing_Model_BH/blob/main/Notebook_2%20_An%C3%A1lise_e_treinamento/Real_Estate_Price_Analysis_and_Training_BH.ipynb'>Notebook 2 - Análise Exploratória, Escolha de Modelo e Validação</a></h3>
 <p>Nesta parte do projeito estão presentes análises gráficas do banco de dados, utilizando histogramas, box plots e gráficos de barras por agrupamentos regionais. Após essa etapa, foi efetuada a transformação logarítmica da variável dependente ou observável "price" e a vetorização das variáveis independentes categóricas ("one-hot").</p>
@@ -32,6 +32,5 @@ uma análise mais clara, já que a base de dados original não continha nenhuma 
 Apesar da limitação da base de dados com informações insuficientes sobre a estrutura do imóvel e uma distribuição geográfica não homogênea, com maior representatividade da Zona Centro-Sul, o resultado de 0,84 de R2 é considerado positivo, embora não ideal, devido a algumas anomalias e falhas no teste de resíduos. A inclusão de informações adicionais, como número de banheiros, quantidade de andares, materiais utilizados e idade do imóvel, juntamente com uma amostra maior de outras zonas, como Barreiro e Venda Nova, pode aprimorar significativamente o modelo.
 
 Uma alternativa para aprimorar a distribuição de preços assimétrica seria criar um modelo de regressão específico para grupos de renda ou faixas de valores de imóveis. Além disso, foi observado que a influência das regiões no modelo de previsão de preços foi insignificante, exceto pela Zona Centro-Sul, que apresentou algum peso relevante de 0,1.
-
 
 
