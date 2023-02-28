@@ -18,7 +18,7 @@ Neste notebook se encontra todo o processo de tratamento dos dados. Desde da ret
 uma análise mais clara, já que a base de dados original não continha nenhuma variável qualitativa que possibilitasse um estudo por grupos.
 
 <h3 id = 'notebook2'><a href='https://github.com/lukasoares/Real_Estate_Pricing_Model_BH/blob/main/Notebook_2%20_An%C3%A1lise_e_treinamento/Real_Estate_Price_Analysis_and_Training_BH.ipynb'>Notebook 2 - Análise Exploratória, Escolha de Modelo e Validação</a></h3>
-<p>Aqui esta presente análises gráficas do banco de dados, utilizando histogramas, box plots e gráficos de barra por agrupamentos regionais. Após esta etapa, foi efetuada a transformação logarítima da variável dependente ou observável "price" e a vetorização das variáveis independentes ("one-hot") categóricas.</p>
+<p>Aqui estão presentes análises gráficas do banco de dados, utilizando histogramas, box plots e gráficos de barras por agrupamentos regionais. Após essa etapa, foi efetuada a transformação logarítmica da variável dependente ou observável "price" e a vetorização das variáveis independentes categóricas ("one-hot").</p>
 <img src ="https://user-images.githubusercontent.com/110298606/221657828-b65925b4-58a4-4611-8c8d-a5609568832a.png" width = 800px/> 
 <p>Como parte do processo de avaliação de análise das variáveis foi realizado um teste de correlação Pearson</p>
 <img src ="https://user-images.githubusercontent.com/110298606/221703057-bb241997-dee4-4c8b-865b-bffdf779573d.png"/>
