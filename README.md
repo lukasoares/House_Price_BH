@@ -10,7 +10,7 @@ Tratamento de dados, análise exploratória, seleção e construção de um mode
 
 <h2 id = 'objetivo'>Objetivo</h2>
 
-Este projeto teve como objetivo aplicar os conceitos de machine learning relacionados à regressão, desde o pré-processamento dos dados até a análise exploratória, seleção da melhor classe de modelo e seus hiperparâmetros, testes estatísticos de hipótese, validação final e avaliação dos resultados. Utilizamos uma base de dados da cidade de Belo Horizonte, onde foram selecionados modelos de regressão como Random Forest Regressor, Gradient Boosting Regressor, entre outros, a fim de alcançar as melhores previsões de preço de imóveis possível.
+Este projeto teve como objetivo aplicar os conceitos de machine learning relacionados à regressão, desde o pré-processamento dos dados até a análise exploratória, seleção da melhor classe de modelo e seus hiperparâmetros, testes estatísticos de hipótese, validação final e avaliação dos resultados. Foi utilizada uma base de dados da cidade de Belo Horizonte, onde foram selecionados modelos de regressão como Random Forest Regressor, Gradient Boosting Regressor, entre outros, a fim de alcançar as melhores previsões de preço de imóveis possível.
 
 
 <h3 id = 'notebook1'><a href='https://github.com/lukasoares/House_Price_BH/blob/main/Notebook_1%20_Tratamento_e_limpeza_dos_dados/Treatment_House_Pricing_BH.ipynb'>Notebook 1 - Tratamento e limpeza dos dados</a></h3>
