@@ -25,7 +25,7 @@ uma análise mais clara, já que a base de dados original não continha nenhuma 
 <img src ="https://user-images.githubusercontent.com/110298606/221703057-bb241997-dee4-4c8b-865b-bffdf779573d.png"/>
 
 <p>Com os dados transformados, foi utilizado o método "Nested Cross Validation" para separar a base de dados entre treino e teste. O objetivo deste processo é manter a base de teste para a validação do modelo, enquanto que a base de treino é usada para escolher a melhor classe de modelo com cross validation e para selecionar os melhores hiperparâmetros utilizando o GridSearchCV. Desta forma, é possível obter uma validação mais realista do modelo final.</p><p>Após o cross validation e o GridSearchCV, foram realizados testes estatísticos de hipótese de normalidade e média. A classe Gradient Boosting Regressor apresentou o melhor desempenho.</p>Em seguida, realizamos a validação final do modelo com o dataset de teste e obtivemos um resultado de R^2 = 0,84 e um RMSE = 420.044,70. Também foi realizado um estudo gráfico dos resíduos do modelo e um teste de normalidade, que teviram resultados negativos, indicando a provável necessidade de melhorias no modelo.
-<img src ="https://user-images.githubusercontent.com/110298606/221668460-178396d7-3977-4785-ae0d-ce5daab92a68.png" width = 800px/>
+<img src ="https://user-images.githubusercontent.com/110298606/221668460-178396d7-3977-4785-ae0d-ce5daab92a68.png" width = 800px height = 400px/>
 
 <h3 id = 'conclusão'>Conclusão</h3>
 
